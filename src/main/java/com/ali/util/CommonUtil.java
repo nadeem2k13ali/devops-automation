@@ -1,4 +1,4 @@
-package com.ali.demo.util;
+package com.ali.util;
 
 import org.springframework.util.StringUtils;
 

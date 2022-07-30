@@ -1,4 +1,4 @@
-package com.ali.demo.util;
+package com.ali.util;
 
 public class MarkUtil {
     public static String getMethodName() {
